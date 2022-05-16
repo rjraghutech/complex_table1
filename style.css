@@ -1,0 +1,32 @@
+<style>
+		header{	
+			margin: auto;
+		}
+		h1{
+			margin-bottom: auto;
+		}
+		h2{
+			color: red;
+			margin: auto;
+		}
+		img{
+			background-color: black;
+			margin-top: 10px;
+			margin-left: 40%;
+		}
+		body{
+			background-color: aqua;
+		}
+		p{
+			font-size: large;
+
+		}
+		pre{
+			font-size: large;
+		}
+		footer{
+			padding: 6px;
+			background-color: white;
+			text-align: center;
+		}
+	</style>

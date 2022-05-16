@@ -1,0 +1,22 @@
+<style>
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+thead{
+    background-color: rgb(114, 218, 114);
+    color: white;
+    font-family: Corbel;
+}
+tfoot{
+    background-color: rgb(114, 218, 114);
+    color: white;
+    font-family: Corbel;
+}
+.cars{
+    background-color: rgb(177, 223, 177);
+    color: green;
+    font-family: Corbel;
+}
+</style>
